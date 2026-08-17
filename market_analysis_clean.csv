@@ -1,0 +1,218 @@
+country,region,income_level,capital_city,latitude,longitude,inflation_year,inflation_annual_pct,cost_living_index,rent_index,groceries_index,restaurants_index,purchasing_power_index,bread_price_usd,transport_oneway_usd,transport_monthly_pass_usd,rent_monthly_usd,utilities_monthly_usd,data_completeness,expansion_affordability_score
+Afghanistan,"Middle East, North Africa, Afghanistan & Pakistan",Low income,Kabul,34.5228,69.1761,2024.0,-6.6,38.2,8.2,36.8,36.9,48.5,0.88,1.05,12.8,85.0,20.0,Full data,69.4
+Albania,Europe & Central Asia,Upper middle income,Tirane,41.3317,19.8172,2024.0,2.22,,,,,,,,,,,Inflation only,56.8
+Algeria,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,Algiers,36.7397,3.05097,2024.0,4.05,,,,,,,,,,,Inflation only,56.3
+American Samoa,East Asia & Pacific,High income,Pago Pago,-14.2846,-170.691,,,,,,,,,,,,,Reference only,54.5
+Andorra,Europe & Central Asia,High income,Andorra la Vella,42.5075,1.5218,,,,,,,,,,,,,Reference only,54.5
+Angola,Sub-Saharan Africa,Lower middle income,Luanda,-8.81155,13.242,2024.0,28.24,,,,,,,,,,,Inflation only,49.0
+Antigua and Barbuda,Latin America & Caribbean,High income,Saint John's,17.1175,-61.8456,2024.0,6.2,,,,,,,,,,,Inflation only,55.6
+Argentina,Latin America & Caribbean,Upper middle income,Buenos Aires,-34.6118,-58.4173,2024.0,219.88,,,,,,,,,,,Inflation only,42.5
+Armenia,Europe & Central Asia,Upper middle income,Yerevan,40.1596,44.509,2024.0,0.27,,,,,,,,,,,Inflation only,57.4
+Aruba,Latin America & Caribbean,High income,Oranjestad,12.5167,-70.0167,,,,,,,,,,,,,Reference only,54.5
+Australia,East Asia & Pacific,High income,Canberra,-35.282,149.129,2024.0,3.17,69.5,32.8,65.4,68.9,95.6,3.25,,,1450.0,140.0,Full data,68.3
+Austria,Europe & Central Asia,High income,Vienna,48.2201,16.3798,2024.0,2.94,,,,,,,,,,,Inflation only,56.6
+Azerbaijan,Europe & Central Asia,Upper middle income,Baku,40.3834,49.8932,2024.0,2.21,,,,,,,,,,,Inflation only,56.8
+"Bahamas, The",Latin America & Caribbean,High income,Nassau,25.0661,-77.339,2024.0,0.41,,,,,,,,,,,Inflation only,57.4
+Bahrain,"Middle East, North Africa, Afghanistan & Pakistan",High income,Manama,26.1921,50.5354,2024.0,0.92,65.2,26.1,61.8,63.5,86.2,,,,600.0,,Full data,68.2
+Bangladesh,South Asia,Lower middle income,Dhaka,23.7055,90.4113,2024.0,10.47,39.5,8.8,38.1,38.2,50.8,0.95,1.18,14.5,100.0,25.0,Full data,64.5
+Barbados,Latin America & Caribbean,High income,Bridgetown,13.0935,-59.6105,2024.0,1.45,75.2,41.8,70.8,73.2,88.5,,,,1200.0,,Full data,62.9
+Belarus,Europe & Central Asia,Upper middle income,Minsk,53.9678,27.5766,2024.0,5.79,,,,,,,,,,,Inflation only,55.8
+Belgium,Europe & Central Asia,High income,Brussels,50.8371,4.36761,2024.0,3.14,,,,,,,,,,,Inflation only,56.6
+Belize,Latin America & Caribbean,Upper middle income,Belmopan,17.2534,-88.7713,2024.0,3.29,,,,,,,,,,,Inflation only,56.5
+Benin,Sub-Saharan Africa,Lower middle income,Porto-Novo,6.4779,2.6323,2024.0,1.16,,,,,,,,,,,Inflation only,57.2
+Bermuda,North America,High income,Hamilton,32.3293,-64.706,,,,,,,,,,,,,Reference only,54.5
+Bhutan,South Asia,Lower middle income,Thimphu,27.5768,89.6177,2024.0,2.76,,,,,,,,,,,Inflation only,56.7
+Bolivia,Latin America & Caribbean,Lower middle income,La Paz,-13.9908,-66.1936,2024.0,5.1,,,,,,,,,,,Inflation only,56.0
+Bosnia and Herzegovina,Europe & Central Asia,Upper middle income,Sarajevo,43.8607,18.4214,2023.0,6.11,,,,,,,,,,,Inflation only,55.7
+Botswana,Sub-Saharan Africa,Upper middle income,Gaborone,-24.6544,25.9201,2024.0,2.82,,,,,,,,,,,Inflation only,56.7
+Brazil,Latin America & Caribbean,Upper middle income,Brasilia,-15.7801,-47.9292,2024.0,4.37,51.4,15.9,49.2,50.1,67.5,1.85,2.85,52.4,270.0,70.0,Full data,66.9
+British Virgin Islands,Latin America & Caribbean,High income,Road Town,18.431389,-64.623056,,,,,,,,,,,,,Reference only,54.5
+Brunei Darussalam,East Asia & Pacific,High income,Bandar Seri Begawan,4.94199,114.946,2024.0,-0.39,,,,,,,,,,,Inflation only,57.6
+Bulgaria,Europe & Central Asia,High income,Sofia,42.7105,23.3238,2024.0,2.45,,,,,,,,,,,Inflation only,56.8
+Burkina Faso,Sub-Saharan Africa,Low income,Ouagadougou,12.3605,-1.53395,2024.0,4.19,,,,,,,,,,,Inflation only,56.2
+Burundi,Sub-Saharan Africa,Low income,Bujumbura,-3.3784,29.3639,2024.0,20.21,,,,,,,,,,,Inflation only,51.4
+Cabo Verde,Sub-Saharan Africa,Upper middle income,Praia,14.9218,-23.5087,2024.0,1.05,,,,,,,,,,,Inflation only,57.2
+Cambodia,East Asia & Pacific,Lower middle income,Phnom Penh,11.5556,104.874,2024.0,0.81,50.2,14.5,48.2,48.5,65.2,,,,160.0,,Full data,67.8
+Cameroon,Sub-Saharan Africa,Lower middle income,Yaounde,3.8721,11.5174,2024.0,4.53,,,,,,,,,,,Inflation only,56.1
+Canada,North America,High income,Ottawa,45.4215,-75.6919,2024.0,2.38,65.4,28.4,61.5,64.2,92.1,3.18,,,1200.0,145.0,Full data,69.4
+Cayman Islands,Latin America & Caribbean,High income,George Town,19.3022,-81.3857,,,94.3,60.2,85.6,92.1,115.8,6.36,,,2500.0,,Cost data only,60.5
+Central African Republic,Sub-Saharan Africa,Low income,Bangui,5.63056,21.6407,2024.0,1.48,,,,,,,,,,,Inflation only,57.1
+Chad,Sub-Saharan Africa,Low income,N'Djamena,12.1048,15.0445,2024.0,8.9,,,,,,,,,,,Inflation only,54.8
+Channel Islands,Europe & Central Asia,High income,,,,,,,,,,,,,,,,Reference only,54.5
+Chile,Latin America & Caribbean,High income,Santiago,-33.475,-70.6475,2024.0,4.3,,,,,,,,,,,Inflation only,56.2
+China,East Asia & Pacific,Upper middle income,Beijing,40.0495,116.286,2024.0,0.22,49.8,14.8,47.8,48.5,64.2,1.65,2.45,42.8,540.0,80.0,Full data,67.8
+Colombia,Latin America & Caribbean,Upper middle income,Bogota,4.60987,-74.082,2024.0,6.61,,,,,,,,,,,Inflation only,55.5
+Comoros,Sub-Saharan Africa,Lower middle income,Moroni,-11.6986,43.2418,2024.0,5.05,,,,,,,,,,,Inflation only,56.0
+"Congo, Dem. Rep.",Sub-Saharan Africa,Low income,Kinshasa,-4.325,15.3222,,,,,,,,,,,,,Reference only,54.5
+"Congo, Rep.",Sub-Saharan Africa,Lower middle income,Brazzaville,-4.2767,15.2662,2024.0,3.09,,,,,,,,,,,Inflation only,56.6
+Costa Rica,Latin America & Caribbean,High income,San Jose,9.63701,-84.0089,2024.0,-0.41,,,,,,,,,,,Inflation only,57.6
+Cote d'Ivoire,Sub-Saharan Africa,Lower middle income,Yamoussoukro,5.332,-4.0305,2024.0,3.45,,,,,,,,,,,Inflation only,56.5
+Croatia,Europe & Central Asia,High income,Zagreb,45.8069,15.9614,2024.0,2.97,,,,,,,,,,,Inflation only,56.6
+Cuba,Latin America & Caribbean,Upper middle income,Havana,23.1333,-82.3667,,,,,,,,,,,,,Reference only,54.5
+Curacao,Latin America & Caribbean,High income,Willemstad,,,,,,,,,,,,,,,Reference only,54.5
+Cyprus,Europe & Central Asia,High income,Nicosia,35.1676,33.3736,2024.0,1.8,,,,,,,,,,,Inflation only,57.0
+Czechia,Europe & Central Asia,High income,Prague,50.0878,14.4205,2024.0,2.44,,,,,,,,,,,Inflation only,56.8
+Denmark,Europe & Central Asia,High income,Copenhagen,55.6763,12.5681,2024.0,1.37,72.1,36.4,67.2,75.3,102.8,3.48,5.42,128.5,,,Full data,69.9
+Djibouti,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Djibouti,11.5806,43.1425,2024.0,2.11,,,,,,,,,,,Inflation only,56.9
+Dominica,Latin America & Caribbean,Upper middle income,Roseau,15.2976,-61.39,2024.0,2.74,,,,,,,,,,,Inflation only,56.7
+Dominican Republic,Latin America & Caribbean,Upper middle income,Santo Domingo,18.479,-69.8908,2024.0,3.3,,,,,,,,,,,Inflation only,56.5
+Ecuador,Latin America & Caribbean,Upper middle income,Quito,-0.229498,-78.5243,2024.0,1.55,,,,,,,,,,,Inflation only,57.0
+"Egypt, Arab Rep.","Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Cairo,30.0982,31.2461,2024.0,28.27,,,,,,,,,,,Inflation only,49.0
+El Salvador,Latin America & Caribbean,Upper middle income,San Salvador,13.7034,-89.2073,2024.0,0.85,,,,,,,,,,,Inflation only,57.2
+Equatorial Guinea,Sub-Saharan Africa,Upper middle income,Malabo,3.7523,8.7741,2024.0,2.92,,,,,,,,,,,Inflation only,56.6
+Eritrea,Sub-Saharan Africa,Low income,Asmara,15.3315,38.9183,,,,,,,,,,,,,Reference only,54.5
+Estonia,Europe & Central Asia,High income,Tallinn,59.4392,24.7586,2024.0,3.52,,,,,,,,,,,Inflation only,56.4
+Eswatini,Sub-Saharan Africa,Lower middle income,Mbabane,-26.5225,31.4659,,,,,,,,,,,,,Reference only,54.5
+Ethiopia,Sub-Saharan Africa,Low income,Addis Ababa,9.02274,38.7468,2024.0,21.04,,,,,,,,,,,Inflation only,51.2
+Faroe Islands,Europe & Central Asia,High income,Torshavn,61.8926,-6.91181,,,,,,,,,,,,,Reference only,54.5
+Fiji,East Asia & Pacific,Upper middle income,Suva,-18.1149,178.399,2024.0,3.89,,,,,,,,,,,Inflation only,56.3
+Finland,Europe & Central Asia,High income,Helsinki,60.1608,24.9525,2024.0,1.57,,,,,,,,,,,Inflation only,57.0
+France,Europe & Central Asia,High income,Paris,48.8566,2.35097,2024.0,2.0,64.8,27.9,60.8,63.5,89.7,2.78,4.62,108.4,738.0,155.0,Full data,68.9
+French Polynesia,East Asia & Pacific,High income,Papeete,-17.535,-149.57,,,,,,,,,,,,,Reference only,54.5
+Gabon,Sub-Saharan Africa,Upper middle income,Libreville,0.38832,9.45162,2024.0,1.17,,,,,,,,,,,Inflation only,57.1
+"Gambia, The",Sub-Saharan Africa,Low income,Banjul,13.4495,-16.5885,2024.0,11.56,,,,,,,,,,,Inflation only,54.0
+Georgia,Europe & Central Asia,Upper middle income,Tbilisi,41.71,44.793,2024.0,1.11,,,,,,,,,,,Inflation only,57.2
+Germany,Europe & Central Asia,High income,Berlin,52.5235,13.4115,2024.0,2.26,64.1,26.5,59.7,62.8,91.3,2.72,4.85,112.3,850.0,170.0,Full data,69.9
+Ghana,Sub-Saharan Africa,Lower middle income,Accra,5.57045,-0.20795,2024.0,22.85,,,,,,,,,,,Inflation only,50.6
+Gibraltar,Europe & Central Asia,High income,,,,,,,,,,,,,,,,Reference only,54.5
+Greece,Europe & Central Asia,High income,Athens,37.9792,23.7166,2024.0,2.74,57.1,19.2,53.8,55.1,76.4,2.38,3.62,78.2,380.0,75.0,Full data,68.1
+Greenland,Europe & Central Asia,High income,Nuuk,64.1836,-51.7214,,,,,,,,,,,,,Reference only,54.5
+Grenada,Latin America & Caribbean,Upper middle income,Saint George's,12.0653,-61.7449,2024.0,1.09,,,,,,,,,,,Inflation only,57.2
+Guam,East Asia & Pacific,High income,Agana,13.4443,144.794,,,,,,,,,,,,,Reference only,54.5
+Guatemala,Latin America & Caribbean,Upper middle income,Guatemala City,14.6248,-90.5328,2024.0,2.87,,,,,,,,,,,Inflation only,56.6
+Guinea,Sub-Saharan Africa,Lower middle income,Conakry,9.51667,-13.7,2024.0,8.12,,,,,,,,,,,Inflation only,55.1
+Guinea-Bissau,Sub-Saharan Africa,Low income,Bissau,11.8037,-15.1804,2024.0,3.77,,,,,,,,,,,Inflation only,56.4
+Guyana,Latin America & Caribbean,High income,Georgetown,6.80461,-58.1548,2024.0,2.9,,,,,,,,,,,Inflation only,56.6
+Haiti,Latin America & Caribbean,Lower middle income,Port-au-Prince,18.5392,-72.3288,2024.0,26.95,,,,,,,,,,,Inflation only,49.4
+Honduras,Latin America & Caribbean,Lower middle income,Tegucigalpa,15.1333,-87.4667,2024.0,4.61,,,,,,,,,,,Inflation only,56.1
+"Hong Kong SAR, China",East Asia & Pacific,High income,,22.3964,114.109,2024.0,1.73,,,,,,,,,,,Inflation only,57.0
+Hungary,Europe & Central Asia,High income,Budapest,47.4984,19.0408,2024.0,3.7,,,,,,,,,,,Inflation only,56.4
+Iceland,Europe & Central Asia,High income,Reykjavik,64.1353,-21.8952,2024.0,5.86,78.2,45.6,72.3,82.1,98.7,4.26,7.94,131.85,,,Full data,63.6
+India,South Asia,Lower middle income,New Delhi,28.6353,77.225,2024.0,4.95,48.5,13.5,46.2,47.1,62.5,1.52,2.18,35.2,164.0,45.0,Full data,66.4
+Indonesia,East Asia & Pacific,Upper middle income,Jakarta,-6.19752,106.83,2024.0,2.18,47.2,12.8,45.1,45.8,60.8,1.45,2.05,32.4,305.0,55.0,Full data,67.2
+"Iran, Islamic Rep.","Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,Tehran,35.6878,51.4447,2024.0,32.46,,,,,,,,,,,Inflation only,47.8
+Iraq,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,Baghdad,33.3302,44.394,2024.0,2.61,,,,,,,,,,,Inflation only,56.7
+Ireland,Europe & Central Asia,High income,Dublin,53.3441,-6.26749,2024.0,2.11,68.9,40.2,64.7,70.1,92.4,,,,,,Full data,66.6
+Isle of Man,Europe & Central Asia,High income,Douglas,54.1509,-4.47928,,,,,,,,,,,,,Reference only,54.5
+Israel,"Middle East, North Africa, Afghanistan & Pakistan",High income,,31.7717,35.2035,2024.0,3.07,,,,,,,,,,,Inflation only,56.6
+Italy,Europe & Central Asia,High income,Rome,41.8955,12.4823,2024.0,0.98,62.5,23.7,58.2,60.5,83.6,2.65,4.25,98.5,550.0,110.0,Full data,68.5
+Jamaica,Latin America & Caribbean,Upper middle income,Kingston,17.9927,-76.792,2024.0,5.41,,,,,,,,,,,Inflation only,55.9
+Japan,East Asia & Pacific,High income,Tokyo,35.67,139.77,2024.0,2.74,63.2,24.8,58.9,61.2,85.4,2.85,,,750.0,130.0,Full data,68.2
+Jordan,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,Amman,31.9497,35.9263,2024.0,1.56,,,,,,,,,,,Inflation only,57.0
+Kazakhstan,Europe & Central Asia,Upper middle income,Astana,51.1879,71.4382,2024.0,8.69,,,,,,,,,,,Inflation only,54.9
+Kenya,Sub-Saharan Africa,Lower middle income,Nairobi,-1.27975,36.8126,2024.0,4.49,,,,,,,,,,,Inflation only,56.2
+Kiribati,East Asia & Pacific,Lower middle income,Tarawa,1.32905,172.979,2024.0,2.46,,,,,,,,,,,Inflation only,56.8
+"Korea, Dem. People's Rep.",East Asia & Pacific,Low income,Pyongyang,39.0319,125.754,,,,,,,,,,,,,Reference only,54.5
+"Korea, Rep.",East Asia & Pacific,High income,Seoul,37.5323,126.957,2024.0,2.32,,,,,,,,,,,Inflation only,56.8
+Kosovo,Europe & Central Asia,Upper middle income,Pristina,42.565,20.926,2024.0,1.62,,,,,,,,,,,Inflation only,57.0
+Kuwait,"Middle East, North Africa, Afghanistan & Pakistan",High income,Kuwait City,29.3721,47.9824,2024.0,2.9,67.5,27.8,63.8,65.2,88.2,,,,680.0,,Full data,67.2
+Kyrgyz Republic,Europe & Central Asia,Lower middle income,Bishkek,42.8851,74.6057,2024.0,5.0,,,,,,,,,,,Inflation only,56.0
+Lao PDR,East Asia & Pacific,Lower middle income,Vientiane,18.5826,102.177,2024.0,23.13,,,,,,,,,,,Inflation only,50.6
+Latvia,Europe & Central Asia,High income,Riga,56.9465,24.1048,2024.0,1.27,,,,,,,,,,,Inflation only,57.1
+Lebanon,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Beirut,33.8872,35.5134,2024.0,45.24,,,,,,,,,,,Inflation only,43.9
+Lesotho,Sub-Saharan Africa,Lower middle income,Maseru,-29.5208,27.7167,2024.0,6.11,,,,,,,,,,,Inflation only,55.7
+Liberia,Sub-Saharan Africa,Low income,Monrovia,6.30039,-10.7957,2024.0,8.21,,,,,,,,,,,Inflation only,55.0
+Libya,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,Tripoli,32.8578,13.1072,2024.0,2.13,,,,,,,,,,,Inflation only,56.9
+Liechtenstein,Europe & Central Asia,High income,Vaduz,47.1411,9.52148,,,,,,,,,,,,,Reference only,54.5
+Lithuania,Europe & Central Asia,High income,Vilnius,54.6896,25.2799,2024.0,0.72,,,,,,,,,,,Inflation only,57.3
+Luxembourg,Europe & Central Asia,High income,Luxembourg,49.61,6.1296,2024.0,2.05,,,,,,,,,,,Inflation only,56.9
+"Macao SAR, China",East Asia & Pacific,High income,,22.1667,113.55,2024.0,0.67,,,,,,,,,,,Inflation only,57.3
+Madagascar,Sub-Saharan Africa,Low income,Antananarivo,-20.4667,45.7167,2024.0,7.61,,,,,,,,,,,Inflation only,55.2
+Malawi,Sub-Saharan Africa,Low income,Lilongwe,-13.9899,33.7703,2024.0,32.18,,,,,,,,,,,Inflation only,47.8
+Malaysia,East Asia & Pacific,Upper middle income,Kuala Lumpur,3.12433,101.684,2024.0,1.83,56.8,19.5,53.8,54.8,75.2,,,,380.0,,Full data,68.0
+Maldives,South Asia,Upper middle income,Male,4.1742,73.5109,2024.0,1.41,,,,,,,,,,,Inflation only,57.1
+Mali,Sub-Saharan Africa,Low income,Bamako,13.5667,-7.50034,2024.0,3.21,,,,,,,,,,,Inflation only,56.5
+Malta,"Middle East, North Africa, Afghanistan & Pakistan",High income,Valletta,35.9042,14.5189,2024.0,1.65,,,,,,,,,,,Inflation only,57.0
+Marshall Islands,East Asia & Pacific,Upper middle income,Majuro,7.11046,171.135,,,,,,,,,,,,,Reference only,54.5
+Mauritania,Sub-Saharan Africa,Lower middle income,Nouakchott,18.2367,-15.9824,2024.0,2.49,,,,,,,,,,,Inflation only,56.8
+Mauritius,Sub-Saharan Africa,Upper middle income,Port Louis,-20.1605,57.4977,2024.0,3.6,,,,,,,,,,,Inflation only,56.4
+Mexico,Latin America & Caribbean,Upper middle income,Mexico City,19.427,-99.1276,2024.0,4.72,52.8,16.8,50.1,51.2,69.8,1.98,3.05,58.2,350.0,55.0,Full data,67.0
+"Micronesia, Fed. Sts.",East Asia & Pacific,Upper middle income,Palikir,6.91771,158.185,2022.0,5.41,,,,,,,,,,,Inflation only,55.9
+Moldova,Europe & Central Asia,Upper middle income,Chisinau,47.0167,28.8497,2024.0,4.68,,,,,,,,,,,Inflation only,56.1
+Monaco,Europe & Central Asia,High income,Monaco,43.7325,7.41891,,,,,,,,,,,,,Reference only,54.5
+Mongolia,East Asia & Pacific,Upper middle income,Ulaanbaatar,47.9129,106.937,2024.0,6.2,47.5,12.5,45.5,45.8,60.5,,,,,,Full data,65.8
+Montenegro,Europe & Central Asia,Upper middle income,Podgorica,42.4602,19.2595,2024.0,3.34,,,,,,,,,,,Inflation only,56.5
+Morocco,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Rabat,33.9905,-6.8704,2024.0,0.99,,,,,,,,,,,Inflation only,57.2
+Mozambique,Sub-Saharan Africa,Low income,Maputo,-25.9664,32.5713,2024.0,4.08,,,,,,,,,,,Inflation only,56.3
+Myanmar,East Asia & Pacific,Lower middle income,Naypyidaw,21.914,95.9562,,,48.8,13.2,46.8,46.9,62.8,,,,140.0,,Cost data only,64.9
+Namibia,Sub-Saharan Africa,Lower middle income,Windhoek,-22.5648,17.0931,2024.0,4.24,,,,,,,,,,,Inflation only,56.2
+Naoero,East Asia & Pacific,High income,Yaren District,-0.5477,166.920867,,,,,,,,,,,,,Reference only,54.5
+Nepal,South Asia,Lower middle income,Kathmandu,27.6939,85.3157,2024.0,4.69,51.5,15.8,49.2,49.8,67.8,,,,150.0,,Full data,66.9
+Netherlands,Europe & Central Asia,High income,Amsterdam,52.3738,4.89095,2024.0,3.35,,,,,,,,,,,Inflation only,56.5
+New Caledonia,East Asia & Pacific,High income,Noum'ea,-22.2677,166.464,,,,,,,,,,,,,Reference only,54.5
+New Zealand,East Asia & Pacific,High income,Wellington,-41.2865,174.776,2024.0,2.92,66.2,29.8,62.8,65.3,88.5,,,,,,Full data,67.5
+Nicaragua,Latin America & Caribbean,Lower middle income,Managua,12.1475,-86.2734,2024.0,4.62,,,,,,,,,,,Inflation only,56.1
+Niger,Sub-Saharan Africa,Low income,Niamey,13.514,2.1073,2024.0,9.07,,,,,,,,,,,Inflation only,54.8
+Nigeria,Sub-Saharan Africa,Lower middle income,Abuja,9.05804,7.48906,2024.0,33.24,40.8,9.5,39.2,39.5,52.5,1.05,1.32,16.2,180.0,40.0,Full data,57.7
+North Macedonia,Europe & Central Asia,Upper middle income,Skopje,42.0024,21.4361,2024.0,3.49,,,,,,,,,,,Inflation only,56.5
+Northern Mariana Islands,East Asia & Pacific,High income,Saipan,15.1935,145.765,,,,,,,,,,,,,Reference only,54.5
+Norway,Europe & Central Asia,High income,Oslo,59.9138,10.7387,2024.0,3.15,73.8,38.9,69.8,78.5,105.3,3.52,6.54,145.2,,,Full data,69.2
+Oman,"Middle East, North Africa, Afghanistan & Pakistan",High income,Muscat,23.6105,58.5874,2024.0,0.59,64.8,25.2,61.2,62.8,85.6,,,,550.0,,Full data,68.3
+Pakistan,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Islamabad,30.5167,72.8,2024.0,12.63,43.2,10.8,41.8,41.9,55.8,1.18,1.52,20.8,120.0,30.0,Full data,64.0
+Palau,East Asia & Pacific,High income,Koror,7.34194,134.479,2024.0,2.23,,,,,,,,,,,Inflation only,56.8
+Panama,Latin America & Caribbean,High income,Panama City,8.99427,-79.5188,2024.0,0.69,,,,,,,,,,,Inflation only,57.3
+Papua New Guinea,East Asia & Pacific,Lower middle income,Port Moresby,-9.47357,147.194,2024.0,0.6,,,,,,,,,,,Inflation only,57.3
+Paraguay,Latin America & Caribbean,Upper middle income,Asuncion,-25.3005,-57.6362,2024.0,3.84,,,,,,,,,,,Inflation only,56.3
+Peru,Latin America & Caribbean,Upper middle income,Lima,-12.0931,-77.0465,2024.0,2.01,,,,,,,,,,,Inflation only,56.9
+Philippines,East Asia & Pacific,Upper middle income,Manila,14.5515,121.035,2024.0,3.21,46.1,12.2,44.2,44.5,59.2,1.38,1.92,28.5,280.0,48.0,Full data,66.8
+Poland,Europe & Central Asia,High income,Warsaw,52.26,21.02,2024.0,3.79,55.8,18.6,52.4,53.8,74.2,2.25,3.45,72.5,450.0,85.0,Full data,67.5
+Portugal,Europe & Central Asia,High income,Lisbon,38.7072,-9.13552,2024.0,2.42,58.2,20.5,54.7,56.2,78.9,2.45,3.85,85.4,420.0,80.0,Full data,68.4
+Puerto Rico (US),Latin America & Caribbean,High income,San Juan,18.23,-66.0,,,,,,,,,,,,,Reference only,54.5
+Qatar,"Middle East, North Africa, Afghanistan & Pakistan",High income,Doha,25.2948,51.5082,2024.0,1.27,70.8,31.5,66.2,68.5,92.8,,,,900.0,,Full data,67.6
+Romania,Europe & Central Asia,High income,Bucharest,44.4479,26.0979,2024.0,5.72,,,,,,,,,,,Inflation only,55.8
+Russian Federation,Europe & Central Asia,High income,Moscow,55.7558,37.6176,2024.0,8.43,,,,,,,,,,,Inflation only,55.0
+Rwanda,Sub-Saharan Africa,Low income,Kigali,-1.95325,30.0587,2024.0,1.77,,,,,,,,,,,Inflation only,57.0
+Samoa,East Asia & Pacific,Upper middle income,Apia,-13.8314,-171.752,2024.0,2.17,,,,,,,,,,,Inflation only,56.8
+San Marino,Europe & Central Asia,High income,San Marino,43.9322,12.4486,2024.0,1.24,,,,,,,,,,,Inflation only,57.1
+Sao Tome and Principe,Sub-Saharan Africa,Lower middle income,Sao Tome,0.20618,6.6071,2024.0,14.35,,,,,,,,,,,Inflation only,53.2
+Saudi Arabia,"Middle East, North Africa, Afghanistan & Pakistan",High income,Riyadh,24.6748,46.6977,2024.0,1.69,68.2,28.4,64.2,66.1,89.4,,,,750.0,,Full data,67.7
+Senegal,Sub-Saharan Africa,Lower middle income,Dakar,14.7247,-17.4734,2024.0,0.8,,,,,,,,,,,Inflation only,57.3
+Serbia,Europe & Central Asia,Upper middle income,Belgrade,44.8024,20.4656,2024.0,4.67,,,,,,,,,,,Inflation only,56.1
+Seychelles,Sub-Saharan Africa,High income,Victoria,-4.6309,55.4466,2024.0,0.31,,,,,,,,,,,Inflation only,57.4
+Sierra Leone,Sub-Saharan Africa,Low income,Freetown,8.4821,-13.2134,2024.0,28.63,,,,,,,,,,,Inflation only,48.9
+Singapore,East Asia & Pacific,High income,Singapore,1.28941,103.85,2024.0,2.39,80.9,55.3,70.1,72.8,95.2,3.05,,,3167.0,180.0,Full data,61.0
+Sint Maarten (Dutch part),Latin America & Caribbean,High income,Philipsburg,,,,,,,,,,,,,,,Reference only,54.5
+Slovak Republic,Europe & Central Asia,High income,Bratislava,48.1484,17.1073,2024.0,2.76,,,,,,,,,,,Inflation only,56.7
+Slovenia,Europe & Central Asia,High income,Ljubljana,46.0546,14.5044,2024.0,1.97,,,,,,,,,,,Inflation only,56.9
+Solomon Islands,East Asia & Pacific,Lower middle income,Honiara,-9.42676,159.949,2024.0,4.32,,,,,,,,,,,Inflation only,56.2
+"Somalia, Fed. Rep.",Sub-Saharan Africa,Low income,Mogadishu,2.07515,45.3254,,,,,,,,,,,,,Reference only,54.5
+South Africa,Sub-Saharan Africa,Upper middle income,Pretoria,-25.746,28.1871,2024.0,4.36,50.2,15.2,48.5,49.3,65.8,1.78,2.68,48.5,320.0,60.0,Full data,66.9
+South Sudan,Sub-Saharan Africa,Low income,Juba,4.85,31.6,2024.0,91.44,,,,,,,,,,,Inflation only,42.5
+Spain,Europe & Central Asia,High income,Madrid,40.4167,-3.70327,2024.0,2.75,60.8,22.4,56.8,58.9,82.1,2.58,4.08,92.6,480.0,95.0,Full data,68.3
+Sri Lanka,South Asia,Upper middle income,Colombo,6.92148,79.8528,2024.0,-0.43,53.8,17.2,50.8,51.5,70.2,,0.27,9.93,200.0,,Full data,68.3
+St. Kitts and Nevis,Latin America & Caribbean,High income,Basseterre,17.3,-62.7309,2023.0,3.56,,,,,,,,,,,Inflation only,56.4
+St. Lucia,Latin America & Caribbean,Upper middle income,Castries,14.0,-60.9832,2024.0,-0.67,,,,,,,,,,,Inflation only,57.7
+St. Martin (French part),Latin America & Caribbean,High income,Marigot,,,,,,,,,,,,,,,Reference only,54.5
+St. Vincent and the Grenadines,Latin America & Caribbean,Upper middle income,Kingstown,13.2035,-61.2653,2024.0,3.63,,,,,,,,,,,Inflation only,56.4
+Sudan,Sub-Saharan Africa,Low income,Khartoum,15.5932,32.5363,2022.0,138.81,,,,,,,,,,,Inflation only,42.5
+Suriname,Latin America & Caribbean,Upper middle income,Paramaribo,5.8232,-55.1679,2024.0,16.23,,,,,,,,,,,Inflation only,52.6
+Sweden,Europe & Central Asia,High income,Stockholm,59.3327,18.0645,2024.0,2.84,,,,,,,,,,,Inflation only,56.6
+Switzerland,Europe & Central Asia,High income,Bern,46.948,7.44821,2024.0,1.06,82.3,50.1,75.2,88.4,120.5,3.81,6.36,149.7,1850.0,220.0,Full data,70.5
+Syrian Arab Republic,"Middle East, North Africa, Afghanistan & Pakistan",Low income,Damascus,33.5146,36.3119,,,,,,,,,,,,,Reference only,54.5
+Tajikistan,Europe & Central Asia,Lower middle income,Dushanbe,38.5878,68.7864,,,,,,,,,,,,,Reference only,54.5
+Tanzania,Sub-Saharan Africa,Lower middle income,Dodoma,-6.17486,35.7382,2024.0,3.06,,,,,,,,,,,Inflation only,56.6
+Thailand,East Asia & Pacific,Upper middle income,Bangkok,13.7308,100.521,2024.0,0.4,55.2,18.2,52.4,53.2,72.8,,,,350.0,,Full data,68.3
+Timor-Leste,East Asia & Pacific,Lower middle income,Dili,-8.56667,125.567,2024.0,2.06,,,,,,,,,,,Inflation only,56.9
+Togo,Sub-Saharan Africa,Lower middle income,Lome,6.1228,1.2255,2024.0,2.86,,,,,,,,,,,Inflation only,56.6
+Tonga,East Asia & Pacific,Upper middle income,Nuku'alofa,-21.136,-175.216,2024.0,3.18,,,,,,,,,,,Inflation only,56.5
+Trinidad and Tobago,Latin America & Caribbean,High income,Port-of-Spain,10.6596,-61.4789,2024.0,0.53,,,,,,,,,,,Inflation only,57.3
+Tunisia,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,Tunis,36.7899,10.21,2024.0,7.21,,,,,,,,,,,Inflation only,55.3
+Turkiye,Europe & Central Asia,Upper middle income,Ankara,39.7153,32.3606,2024.0,58.51,,,,,,,,,,,Inflation only,42.5
+Turkmenistan,Europe & Central Asia,Upper middle income,Ashgabat,37.9509,58.3794,,,,,,,,,,,,,Reference only,54.5
+Turks and Caicos Islands,Latin America & Caribbean,High income,Grand Turk,21.4602778,-71.141389,,,,,,,,,,,,,Reference only,54.5
+Tuvalu,East Asia & Pacific,Upper middle income,Funafuti,-8.6314877,179.089567,,,,,,,,,,,,,Reference only,54.5
+Uganda,Sub-Saharan Africa,Low income,Kampala,0.314269,32.5729,2024.0,3.32,,,,,,,,,,,Inflation only,56.5
+Ukraine,Europe & Central Asia,Upper middle income,Kiev,50.4536,30.5038,2024.0,6.5,,,,,,,,,,,Inflation only,55.5
+United Arab Emirates,"Middle East, North Africa, Afghanistan & Pakistan",High income,Abu Dhabi,24.4764,54.3705,2024.0,1.66,72.4,34.2,68.5,70.8,96.2,,,,1100.0,,Full data,67.7
+United Kingdom,Europe & Central Asia,High income,London,51.5002,-0.126236,2024.0,3.27,67.8,30.5,63.2,66.7,90.2,3.12,4.48,105.2,1235.0,160.0,Full data,67.3
+United States,North America,High income,Washington D.C.,38.8895,-77.032,2024.0,2.95,74.3,35.2,68.5,70.2,100.0,3.65,,,1603.0,150.0,Full data,67.8
+Uruguay,Latin America & Caribbean,High income,Montevideo,-34.8941,-56.0675,2024.0,4.85,,,,,,,,,,,Inflation only,56.0
+Uzbekistan,Europe & Central Asia,Lower middle income,Tashkent,41.3052,69.269,2024.0,9.63,,,,,,,,,,,Inflation only,54.6
+Vanuatu,East Asia & Pacific,Lower middle income,Port-Vila,-17.7404,168.321,2024.0,1.14,,,,,,,,,,,Inflation only,57.2
+"Venezuela, RB",Latin America & Caribbean,Lower middle income,Caracas,9.08165,-69.8371,,,,,,,,,,,,,Reference only,54.5
+Viet Nam,East Asia & Pacific,Upper middle income,Hanoi,21.0069,105.825,2024.0,3.62,,,,,,,,,,,Inflation only,56.4
+Virgin Islands (U.S.),Latin America & Caribbean,High income,Charlotte Amalie,18.3358,-64.8963,,,,,,,,,,,,,Reference only,54.5
+West Bank and Gaza,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,,,,2024.0,53.67,,,,,,,,,,,Inflation only,42.5
+"Yemen, Rep.","Middle East, North Africa, Afghanistan & Pakistan",Low income,Sana'a,15.352,44.2075,,,,,,,,,,,,,Reference only,54.5
+Zambia,Sub-Saharan Africa,Lower middle income,Lusaka,-15.3982,28.2937,2024.0,14.99,,,,,,,,,,,Inflation only,53.0
+Zimbabwe,Sub-Saharan Africa,Lower middle income,Harare,-17.8312,31.0672,2022.0,104.71,,,,,,,,,,,Inflation only,42.5
