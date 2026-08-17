@@ -28,23 +28,7 @@ sql/
   01_schema_and_cleaning.sql   normalizes the flat file into dim_country / fact_inflation /
                                  fact_cost_of_living + builds the vw_market_analysis view
   02_analysis_queries.sql      11 business-question queries (rankings, regional comparisons,
-                                 inflation risk, "best value" screen, etc.)
-excel/
-  Global_Cost_of_Living_Market_Expansion_Analysis.xlsx
-                                Raw_Data, Clean_Data, Regional_Summary (live AVERAGEIFS
-                                formulas + chart), Dashboard (KPIs + Top 10 ranking, all
-                                formula-driven, zero hardcoded results)
-tableau/
-  market_analysis_clean.csv    data extract
-  TABLEAU_BUILD_GUIDE.md       calculated fields + sheet-by-sheet + dashboard layout
-powerbi/
-  market_analysis_clean.csv    data extract
-  POWERBI_BUILD_GUIDE.md       DAX measures + visual-by-visual + dashboard layout
-docs/
-  DATA_DICTIONARY.md
-  BUSINESS_QUESTIONS.md
-  INSIGHTS_SUMMARY.md
-  query_results_raw.txt        raw output of every SQL query, for reference
+
 ```
 
 ## How the pipeline works
